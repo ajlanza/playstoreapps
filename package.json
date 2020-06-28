@@ -1,0 +1,22 @@
+{
+  "name": "playstoreapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PlaystoreApps.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "nodemon": "^2.0.4",
+    "supertest": "^4.0.2"
+  }
+}
